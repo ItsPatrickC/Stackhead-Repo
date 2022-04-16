@@ -58,3 +58,7 @@ Your hand:
      16 : Three of Hearts
      17 : Three of Diamonds
 Which card would you like to play? 0 - 17
+
+
+
+hello
