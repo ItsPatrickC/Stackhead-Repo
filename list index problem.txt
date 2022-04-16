@@ -1,0 +1,17 @@
+Opponents turn!
+The Stack!
+     King of Clubs
+     Nine of Diamonds
+     Seven of Spades
+     Six of Clubs
+     Six of Hearts
+Stack Value: 13!
+Hand value: 13!
+King of Diamonds is usable!
+Jack of Diamonds is not usable!
+Traceback (most recent call last):
+  File "stackhead.py", line 511, in <module>
+    if values[playables[b].rank] >= sval or values[playables[a].rank] in [2,3]:
+IndexError: list index out of range
+
+C:\Users\patri\PycharmProjects\Stackhead>

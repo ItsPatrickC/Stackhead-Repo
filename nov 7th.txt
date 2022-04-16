@@ -1,0 +1,5 @@
+Started Stackhead requirements document:
+	Started going through code to point to requirements being met for future ref
+	Got to REQ9
+
+Fixed the false deal when playing a higher card on a 7

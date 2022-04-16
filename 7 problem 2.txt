@@ -1,0 +1,27 @@
+Opponents turn!
+The Stack!
+     Seven of Hearts
+     Two of Spades
+     Queen of Hearts
+     Queen of Spades
+Stack Value: 7!
+Hand value: 11!
+Opponent must play lower than a 7!
+Opponent can play:
+     Seven of Diamonds
+     Six of Clubs
+     Four of Hearts
+Your turn!
+The Stack!
+     Four of Hearts
+     Seven of Hearts
+     Two of Spades
+     Queen of Hearts
+     Queen of Spades
+Stack Value: 4!
+Hand value: 12!
+Your hand:
+     0 : Queen of Clubs
+     1 : Jack of Spades
+     2 : Ten of Clubs
+Which card would you like to play? 0 - 2

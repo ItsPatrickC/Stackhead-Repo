@@ -1,0 +1,6 @@
+why 3 was being stupid:
+
+The method to change 3 to whatever was underneath did so by changing the value of it in the values list which is a global, meaning that while correct3 would work sometimes, it would also look at the same values list and take from that. The methods which involve 3 now look at and change the .value attribute of the card class, the values list shouldn't ever be edited. Been testing since changing it and noticed 3 being much better now that all the methods relating to it now point to the individual cards .value attribute. 
+
+
+For example, when 3 of hearts was used on an ace, the program looked to the values list and changed the value paired with 'three' to 14. Meaning when it was placed back into a hand and corrected, the value would be set to 14 because that's what the program was looking at. It was complicated but basically the program shouldn't have been editing the values list.

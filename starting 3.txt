@@ -1,0 +1,37 @@
+20 cards in deck line 80
+Opponents turn!
+3 in opponents hand
+The Stack!
+     Ace of Spades
+     Ace of Hearts
+     Ace of Clubs
+     King of Diamonds
+     Three of Hearts
+     Queen of Spades
+     Three of Spades
+     Queen of Clubs
+     Jack of Spades
+     Nine of Hearts
+     Nine of Diamonds
+     Nine of Spades
+     Four of Spades
+Stack Value: 14!
+Hand value: 14!
+Opponent plays the Ace of Diamonds !
+Ace * 4!!
+BURN
+20 cards in deck line 80
+Opponents turn!
+Starting stack card: Three of Clubs, 19 cards remaining from stack class
+19 cards in deck line 80
+Opponents turn!
+dealing opponent the Jack of Hearts, 18 cards remaining
+3 in opponents hand
+The Stack!
+     Three of Clubs
+Stack Value: 12!
+Hand value: 11!
+ UH OH!
+Opponent cannot play any cards! Picking up
+Starting stack card: Eight of Diamonds, 17 cards remaining from stack class
+Press Enter to continue...

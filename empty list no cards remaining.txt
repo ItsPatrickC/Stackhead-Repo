@@ -1,0 +1,34 @@
+Your turn!
+dealing you the Ace of Clubs, 2 cards remaining
+3 in ur hand
+The Stack!
+     Jack of Hearts
+     Three of Clubs
+     Jack of Spades
+Stack Value: 11!
+Hand value: 200!
+Your hand:
+     0 : Ace of Clubs
+     1 : Five of Hearts
+     2 : Two of Clubs
+Which card would you like to play? 0 - 20
+dealing you the Three of Spades, 1 cards remaining
+3 in ur hand
+Opponents turn!
+The Stack!
+     Ace of Clubs
+     Jack of Hearts
+     Three of Clubs
+     Jack of Spades
+Stack Value: 14!
+Hand value: 12!
+ UH OH!
+Opponent cannot play any cards! Picking up
+Traceback (most recent call last):
+  File "stackhead.py", line 434, in <module>
+    gamestack.starter_card(gamedeck, gamedeck.deal())
+  File "C:\Users\patri\PycharmProjects\Stackhead\cardclasses.py", line 180, in starter_card
+    self.all_cards.append(deck.deal())
+  File "C:\Users\patri\PycharmProjects\Stackhead\cardclasses.py", line 53, in deal
+    return self.all_cards.pop()
+IndexError: pop from empty list

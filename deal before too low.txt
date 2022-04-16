@@ -1,0 +1,397 @@
+just a  Three
+just a  Four
+just a  Nine
+Your turn!
+The Stack!
+     Four of Clubs
+     Seven of Spades
+Stack Value: 4!
+Hand value: 14!
+Your hand:
+     0 : Ace of Spades
+     1 : Jack of Clubs
+     2 : Five of Diamonds
+     3 : Five of Hearts
+Which card would you like to play? 0 - 3
+Traceback (most recent call last):
+  File "pycharmprojects/stackhead/stackhead.py", line 320, in <module>
+    gamestack.all_cards.insert(0, phand.select_card())
+  File "C:\Users\patri\pycharmprojects\stackhead\cardclasses.py", line 205, in select_card
+    self.selection = int(input(f"Which card would you like to play? 0 - {int(len(self.cards) - 1)}"))
+ValueError: invalid literal for int() with base 10: ''
+
+C:\Users\patri>python pycharmprojects/stackhead/stackhead.py
+Welcome to Stackhead!
+Your hand:
+     Ten of Spades
+     Five of Clubs
+     Nine of Spades
+Face ups:
+     Two of Diamonds
+     Ace of Hearts
+     Jack of Spades
+Face downs:
+     <hidden card>
+     <hidden card>
+     <hidden card>
+
+Your opponents face up cards are:
+    Ace of Clubs
+    Three of Hearts
+    Two of Hearts
+just a  Two
+just a  Queen
+just a  Seven
+Your turn!
+Starting stack card: Nine of Hearts, 33 cards remaining
+just a  Two
+just a  Queen
+just a  Seven
+Your turn!
+The Stack!
+     Nine of Hearts
+Stack Value: 9!
+Hand value: 10!
+Your hand:
+     0 : Ten of Spades
+     1 : Nine of Spades
+     2 : Five of Clubs
+Which card would you like to play? 0 - 2
+Traceback (most recent call last):
+  File "pycharmprojects/stackhead/stackhead.py", line 320, in <module>
+    gamestack.all_cards.insert(0, phand.select_card())
+  File "C:\Users\patri\pycharmprojects\stackhead\cardclasses.py", line 205, in select_card
+    self.selection = int(input(f"Which card would you like to play? 0 - {int(len(self.cards) - 1)}"))
+ValueError: invalid literal for int() with base 10: ''
+
+C:\Users\patri>python pycharmprojects/stackhead/stackhead.py
+Welcome to Stackhead!
+Your hand:
+     Ten of Diamonds
+     Ace of Clubs
+     Seven of Diamonds
+Face ups:
+     Six of Diamonds
+     Five of Hearts
+     Ten of Spades
+Face downs:
+     <hidden card>
+     <hidden card>
+     <hidden card>
+
+Your opponents face up cards are:
+    Queen of Spades
+    Jack of Spades
+    Six of Hearts
+just a  Jack
+just a  Two
+just a  Six
+Your turn!
+Starting stack card: Six of Clubs, 33 cards remaining
+just a  Jack
+just a  Two
+just a  Six
+Your turn!
+The Stack!
+     Six of Clubs
+Stack Value: 6!
+Hand value: 14!
+Your hand:
+     0 : Ace of Clubs
+     1 : Ten of Diamonds
+     2 : Seven of Diamonds
+Which card would you like to play? 0 - 2
+Traceback (most recent call last):
+  File "pycharmprojects/stackhead/stackhead.py", line 320, in <module>
+    gamestack.all_cards.insert(0, phand.select_card())
+  File "C:\Users\patri\pycharmprojects\stackhead\cardclasses.py", line 205, in select_card
+    self.selection = int(input(f"Which card would you like to play? 0 - {int(len(self.cards) - 1)}"))
+ValueError: invalid literal for int() with base 10: ''
+
+C:\Users\patri>python pycharmprojects/stackhead/stackhead.py
+Welcome to Stackhead!
+Your hand:
+     King of Diamonds
+     King of Clubs
+     Ten of Hearts
+Face ups:
+     Queen of Clubs
+     Two of Diamonds
+     King of Hearts
+Face downs:
+     <hidden card>
+     <hidden card>
+     <hidden card>
+
+Your opponents face up cards are:
+    Jack of Diamonds
+    Ten of Spades
+    Six of Spades
+just a  Seven
+just a  Six
+just a  Seven
+Your turn!
+Starting stack card: Jack of Clubs, 33 cards remaining
+just a  Seven
+just a  Six
+just a  Seven
+Your turn!
+The Stack!
+     Jack of Clubs
+Stack Value: 11!
+Hand value: 13!
+Your hand:
+     0 : King of Diamonds
+     1 : King of Clubs
+     2 : Ten of Hearts
+Which card would you like to play? 0 - 2
+Traceback (most recent call last):
+  File "pycharmprojects/stackhead/stackhead.py", line 320, in <module>
+    gamestack.all_cards.insert(0, phand.select_card())
+  File "C:\Users\patri\pycharmprojects\stackhead\cardclasses.py", line 205, in select_card
+    self.selection = int(input(f"Which card would you like to play? 0 - {int(len(self.cards) - 1)}"))
+ValueError: invalid literal for int() with base 10: ''
+
+C:\Users\patri>python pycharmprojects/stackhead/stackhead.py
+Welcome to Stackhead!
+Your hand:
+     Ten of Hearts
+     Three of Spades
+     Seven of Hearts
+Face ups:
+     Four of Diamonds
+     Two of Hearts
+     Jack of Clubs
+Face downs:
+     <hidden card>
+     <hidden card>
+     <hidden card>
+
+Your opponents face up cards are:
+    Jack of Hearts
+    Five of Hearts
+    Five of Diamonds
+just a  King
+just a  Ace
+just a  Three
+Your turn!
+Starting stack card: Four of Spades, 33 cards remaining
+just a  King
+just a  Ace
+just a  Three
+Your turn!
+The Stack!
+     Four of Spades
+Stack Value: 4!
+Hand value: 300!
+Your hand:
+     0 : Ten of Hearts
+     1 : Seven of Hearts
+     2 : Three of Spades
+Which card would you like to play? 0 - 2
+Traceback (most recent call last):
+  File "pycharmprojects/stackhead/stackhead.py", line 320, in <module>
+    gamestack.all_cards.insert(0, phand.select_card())
+  File "C:\Users\patri\pycharmprojects\stackhead\cardclasses.py", line 205, in select_card
+    self.selection = int(input(f"Which card would you like to play? 0 - {int(len(self.cards) - 1)}"))
+ValueError: invalid literal for int() with base 10: ''
+
+C:\Users\patri>python pycharmprojects/stackhead/stackhead.py
+Welcome to Stackhead!
+Your hand:
+     Two of Clubs
+     Nine of Clubs
+     Queen of Hearts
+Face ups:
+     Two of Hearts
+     Ace of Diamonds
+     Jack of Clubs
+Face downs:
+     <hidden card>
+     <hidden card>
+     <hidden card>
+
+Your opponents face up cards are:
+    Eight of Clubs
+    Seven of Clubs
+    Five of Hearts
+just a  Eight
+just a  Nine
+just a  Four
+Your turn!
+Starting stack card: Ten of Spades, 33 cards remaining
+just a  Eight
+just a  Nine
+just a  Four
+Your turn!
+The Stack!
+     Ten of Spades
+Stack Value: 10!
+Hand value: 200!
+BURN
+just a  Eight
+just a  Nine
+just a  Four
+Your turn!
+Starting stack card: King of Hearts, 32 cards remaining
+just a  Eight
+just a  Nine
+just a  Four
+Your turn!
+The Stack!
+     King of Hearts
+Stack Value: 13!
+Hand value: 200!
+Your hand:
+     0 : Queen of Hearts
+     1 : Nine of Clubs
+     2 : Two of Clubs
+Which card would you like to play? 0 - 2
+Traceback (most recent call last):
+  File "pycharmprojects/stackhead/stackhead.py", line 320, in <module>
+    gamestack.all_cards.insert(0, phand.select_card())
+  File "C:\Users\patri\pycharmprojects\stackhead\cardclasses.py", line 205, in select_card
+    self.selection = int(input(f"Which card would you like to play? 0 - {int(len(self.cards) - 1)}"))
+ValueError: invalid literal for int() with base 10: ''
+
+C:\Users\patri>python pycharmprojects/stackhead/stackhead.py
+Welcome to Stackhead!
+Your hand:
+     Ten of Clubs
+     Three of Hearts
+     Nine of Clubs
+Face ups:
+     Five of Spades
+     Jack of Hearts
+     Nine of Hearts
+Face downs:
+     <hidden card>
+     <hidden card>
+     <hidden card>
+
+Your opponents face up cards are:
+    Six of Diamonds
+    Five of Clubs
+    Three of Spades
+just a  Six
+just a  Ace
+just a  Four
+Your turn!
+Starting stack card: Eight of Hearts, 33 cards remaining
+just a  Six
+just a  Ace
+just a  Four
+Your turn!
+The Stack!
+     Eight of Hearts
+Stack Value: 8!
+Hand value: 300!
+Your hand:
+     0 : Ten of Clubs
+     1 : Nine of Clubs
+     2 : Three of Hearts
+Which card would you like to play? 0 - 2
+Traceback (most recent call last):
+  File "pycharmprojects/stackhead/stackhead.py", line 320, in <module>
+    gamestack.all_cards.insert(0, phand.select_card())
+  File "C:\Users\patri\pycharmprojects\stackhead\cardclasses.py", line 205, in select_card
+    self.selection = int(input(f"Which card would you like to play? 0 - {int(len(self.cards) - 1)}"))
+ValueError: invalid literal for int() with base 10: ''
+
+C:\Users\patri>python pycharmprojects/stackhead/stackhead.py
+Welcome to Stackhead!
+Your hand:
+     Five of Hearts
+     Queen of Spades
+     Jack of Clubs
+Face ups:
+     Three of Clubs
+     Two of Hearts
+     Jack of Hearts
+Face downs:
+     <hidden card>
+     <hidden card>
+     <hidden card>
+
+Your opponents face up cards are:
+    Seven of Spades
+    Six of Diamonds
+    Five of Clubs
+just a  King
+just a  Nine
+just a  Eight
+Your turn!
+Starting stack card: Three of Diamonds, 33 cards remaining
+just a  King
+just a  Nine
+just a  Eight
+Your turn!
+The Stack!
+     Three of Diamonds
+Stack Value: 3!
+Hand value: 12!
+Your hand:
+     0 : Queen of Spades
+     1 : Jack of Clubs
+     2 : Five of Hearts
+Which card would you like to play? 0 - 2
+Traceback (most recent call last):
+  File "pycharmprojects/stackhead/stackhead.py", line 320, in <module>
+    gamestack.all_cards.insert(0, phand.select_card())
+  File "C:\Users\patri\pycharmprojects\stackhead\cardclasses.py", line 205, in select_card
+    self.selection = int(input(f"Which card would you like to play? 0 - {int(len(self.cards) - 1)}"))
+ValueError: invalid literal for int() with base 10: ''
+
+C:\Users\patri>python pycharmprojects/stackhead/stackhead.py
+Welcome to Stackhead!
+Your hand:
+     Four of Hearts
+     Ace of Diamonds
+     Ten of Spades
+Face ups:
+     Ace of Spades
+     Seven of Hearts
+     Ten of Hearts
+Face downs:
+     <hidden card>
+     <hidden card>
+     <hidden card>
+
+Your opponents face up cards are:
+    Jack of Diamonds
+    Eight of Diamonds
+    Four of Spades
+just a  King
+just a  Queen
+got a 10!
+Your turn!
+Starting stack card: Jack of Spades, 33 cards remaining
+just a  King
+just a  Queen
+got a 10!
+Your turn!
+The Stack!
+     Jack of Spades
+Stack Value: 11!
+Hand value: 14!
+Your hand:
+     0 : Ace of Diamonds
+     1 : Ten of Spades
+     2 : Four of Hearts
+Which card would you like to play? 0 - 21
+dealing you the King of Spades, 32 cards remaining
+That card is too low!
+just a  King
+just a  Queen
+got a 10!
+Your turn!
+The Stack!
+     Jack of Spades
+Stack Value: 11!
+Hand value: 14!
+Your hand:
+     0 : Ace of Diamonds
+     1 : King of Spades
+     2 : Ten of Spades
+     3 : Four of Hearts
+Which card would you like to play? 0 - 3

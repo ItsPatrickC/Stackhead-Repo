@@ -1,0 +1,11 @@
+Progress on 21/09/2021:
+
+Have implemented a burn method when four of a card is played, may need to test it further at some point, but it seems to work
+	works on player turn!
+	works on opponents turn!
+	
+
+redid how 3 works, it is no longer its own method, it's now tested whenever a card is played to see whether that card is a 3, and if there's a card below it, it will take on that value, shouldn't skip at all anymore. S
+
+
+Added functionality for 8, it just tests after each card is played to see if it was an 8, if so, it continues without switching playerTurn, skipping the others turn

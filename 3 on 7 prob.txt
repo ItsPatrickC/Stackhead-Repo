@@ -1,0 +1,60 @@
+0 cards in deck line 80
+Your turn!
+The Stack!
+     Three of Clubs
+     Seven of Hearts
+Stack Value: 3!
+Hand value: 300!
+showstack at work
+You must play lower than a 7!
+Your hand:
+     0 : King of Clubs
+     1 : King of Hearts
+     2 : Queen of Spades
+     3 : Queen of Hearts
+     4 : Queen of Clubs
+     5 : Jack of Clubs
+     6 : Jack of Diamonds
+     7 : Nine of Diamonds
+     8 : Nine of Spades
+     9 : Eight of Spades
+     10 : Seven of Clubs
+     11 : Seven of Spades
+     12 : Six of Hearts
+     13 : Five of Diamonds
+     14 : Five of Hearts
+     15 : Four of Diamonds
+     16 : Three of Hearts
+     17 : Three of Diamonds
+Which card would you like to play? 0 - 170
+That is not lower than a 7!
+0 cards in deck line 80
+HELLO 101
+Your turn!
+The Stack!
+     Three of Clubs
+     Seven of Hearts
+Stack Value: 3!
+Hand value: 300!
+showstack at work
+You must play lower than a 7!
+Your hand:
+     0 : King of Hearts
+     1 : King of Clubs
+     2 : Queen of Spades
+     3 : Queen of Hearts
+     4 : Queen of Clubs
+     5 : Jack of Clubs
+     6 : Jack of Diamonds
+     7 : Nine of Diamonds
+     8 : Nine of Spades
+     9 : Eight of Spades
+     10 : Seven of Clubs
+     11 : Seven of Spades
+     12 : Six of Hearts
+     13 : Five of Diamonds
+     14 : Five of Hearts
+     15 : Four of Diamonds
+     16 : Three of Hearts
+     17 : Three of Diamonds
+Which card would you like to play? 0 - 17

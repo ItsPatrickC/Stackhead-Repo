@@ -1,0 +1,119 @@
+Welcome to Stackhead!
+Your hand:
+     Five of Clubs
+     Queen of Clubs
+     Seven of Hearts
+Face ups:
+     Jack of Clubs
+     Four of Clubs
+     Five of Diamonds
+Face downs:
+     <hidden card>
+     <hidden card>
+     <hidden card>
+
+Your opponents face up cards are:
+    Three of Hearts
+    Three of Spades
+    Seven of Spades
+Starting stack card: Ace of Diamonds
+None
+Opponents turn!
+The Stack!
+     Ace of Diamonds
+Stack Value: 14!
+Hand value: 13!
+Opponent cannot play any cards! Picking up
+Starting stack card: Nine of Diamonds
+None
+Your turn!
+The Stack!
+     Nine of Diamonds
+Stack Value: 9!
+Hand value: 12!
+Cannot play these cards! Pick up
+Starting stack card: Six of Clubs
+None
+Your turn!
+The Stack!
+     Six of Clubs
+Stack Value: 6!
+Hand value: 12!
+Cannot play these cards! Pick up
+Starting stack card: Eight of Clubs
+None
+Your turn!
+The Stack!
+     Eight of Clubs
+Stack Value: 8!
+Hand value: 12!
+Cannot play these cards! Pick up
+Starting stack card: Nine of Hearts
+None
+Your turn!
+The Stack!
+     Nine of Hearts
+Stack Value: 9!
+Hand value: 12!
+Cannot play these cards! Pick up
+Starting stack card: Four of Diamonds
+None
+Your turn!
+The Stack!
+     Four of Diamonds
+Stack Value: 4!
+Hand value: 12!
+Cannot play these cards! Pick up
+Starting stack card: Ten of Spades
+None
+Your turn!
+The Stack!
+     Ten of Spades
+Stack Value: 10!
+Hand value: 12!
+BURN
+Your turn!
+Starting stack card: Nine of Spades
+None
+Your turn!
+The Stack!
+     Nine of Spades
+Stack Value: 9!
+Hand value: 12!
+Cannot play these cards! Pick up
+Starting stack card: Jack of Hearts
+None
+Your turn!
+The Stack!
+     Jack of Hearts
+Stack Value: 11!
+Hand value: 12!
+Cannot play these cards! Pick up
+Starting stack card: Ace of Hearts
+None
+Your turn!
+The Stack!
+     Ace of Hearts
+Stack Value: 14!
+Hand value: 12!
+Cannot play these cards! Pick up
+Starting stack card: Eight of Spades
+None
+Your turn!
+The Stack!
+     Eight of Spades
+Stack Value: 8!
+Hand value: 14!
+Your hand:
+     0 : Ace of Hearts
+     1 : Queen of Clubs
+     2 : Jack of Hearts
+     3 : Nine of Diamonds
+     4 : Nine of Hearts
+     5 : Nine of Spades
+     6 : Eight of Clubs
+     7 : Seven of Hearts
+     8 : Six of Clubs
+     9 : Five of Clubs
+     10 : Four of Diamonds
+Which card would you like to play? 0 - 10

@@ -1,0 +1,4 @@
+Further edited the playcard() method so that it will only play 2 or 3 if the opponent has no choice, making their play more tactical.
+
+
+Now need to implement a way for both the player and the opponent to choose from their face down cards

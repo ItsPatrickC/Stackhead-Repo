@@ -1,0 +1,43 @@
+Your turn!
+The Stack!
+     Seven of Spades
+Stack Value: 7!
+Hand value: 13!
+You must play lower than a 7!
+Your hand:
+     0 : King of Diamonds
+     1 : Jack of Clubs
+     2 : Nine of Hearts
+     3 : Seven of Hearts
+Which card would you like to play? 0 - 33
+Opponents turn!
+The Stack!
+     Seven of Hearts
+     Seven of Spades
+Stack Value: 7!
+Hand value: 300!
+Opponent must play lower than a 7!
+Your turn!
+The Stack!
+     Seven of Hearts
+     Seven of Spades
+Stack Value: 7!
+Hand value: 13!
+You must play lower than a 7!
+You have no cards under 7! Pick up
+Your turn!
+Starting stack card: Seven of Diamonds
+None
+Your turn!
+The Stack!
+     Seven of Diamonds
+Stack Value: 7!
+Hand value: 13!
+You must play lower than a 7!
+Your hand:
+     0 : King of Diamonds
+     1 : Jack of Clubs
+     2 : Nine of Hearts
+     3 : Seven of Spades
+     4 : Seven of Hearts
+Which card would you like to play? 0 - 4

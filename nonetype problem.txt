@@ -1,0 +1,28 @@
+Your turn!
+The Stack!
+     Queen of Diamonds
+     Nine of Hearts
+Stack Value: 12!
+Hand value: 14!
+Your hand:
+     0 : Ace of Hearts
+     1 : Jack of Hearts
+     2 : Nine of Diamonds
+     3 : Four of Diamonds
+Which card would you like to play? 0 - 30
+1 cards in deck
+Opponents turn!
+The Stack!
+     Ace of Hearts
+     Queen of Diamonds
+     Nine of Hearts
+Stack Value: 14!
+Hand value: 13!
+ UH OH!
+Opponent cannot play any cards! Picking up
+Starting stack card: None, 0 cards remaining
+0 cards in deck
+Traceback (most recent call last):
+  File "pycharmprojects/stackhead/stackhead.py", line 85, in <module>
+    sval = values[gamestack.all_cards[0].rank]
+AttributeError: 'NoneType' object has no attribute 'rank'

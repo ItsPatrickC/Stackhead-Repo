@@ -1,0 +1,6 @@
+DEC 2nd
+
+Successfully implemented facedown cards for the player, will need testing though
+
+Also implemented for the opponent, but needs fixing, as the game loop doesn't check to see if their card is playable (as before implementing facedown cards, it had no need to) Presentation of them playing from their facedown cards can also be improved
+

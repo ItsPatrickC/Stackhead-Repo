@@ -1,0 +1,17 @@
+Your turn!
+Starting stack card: Seven of Hearts, 31 cards remaining
+Your turn!
+The Stack!
+     Seven of Hearts
+Stack Value: 7!
+Hand value: 13!
+You must play lower than a 7!
+Your hand:
+     0 : King of Hearts
+     1 : Ten of Hearts
+     2 : Eight of Diamonds
+     3 : Seven of Diamonds
+Which card would you like to play? 0 - 3
+YOU MUST INPUT AN INTEGER BETWEEN 0 AND 3
+Press Enter to continue...
+Which card would you like to play? 0 - 3

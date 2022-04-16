@@ -1,0 +1,11 @@
+NOV 30th
+
+Successfully got it so that when players hand is depleted, their faceup cards become avaliable, works as it should but should test it more.
+
+Might make a function for the opponent to select which card they play, which would take in sval as an argument, and act accordingly. Would mean fewer lines of code in the main file.
+
+Implemented method in hand class for choosing an opponents card so that it can be called by a single line in the main file. Method takes the sval as an argument, assessing the best card for an opponent to play according to the sval, invluding when it's 7. Saves lots of lines of code now. 
+
+Now need to make it look to their faceup cards when their hand is depleted. Done that now.
+
+Need to make it so that opponent won't use 2 or 3 unless it has no other choices.

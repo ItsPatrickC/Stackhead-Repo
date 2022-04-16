@@ -1,0 +1,1 @@
+Think I've figured out why 3 would sometimes not working, it was because the line that corrects it was after the line that actually displays it, so it actually would update it but not before displaying the old one. It SHOULD work perfectly now

@@ -1,0 +1,6 @@
+TO DO
+
+Implement so that the opponent will use faceup cards when their hand is depleted
+possibly by looping through them and adding them to their hand, but need a way to put them back as well.
+
+Got it so that the select card will also look to the face ups if the initial hand is empty, but it doesn't assess whether the faceup cards are playable I think, Line 282

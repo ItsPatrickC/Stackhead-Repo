@@ -1,0 +1,54 @@
+Which card would you like to play? 0 - 20
+dealing you the Jack of Diamonds, 23 cards remaining
+Opponents turn!
+dealing opponent the Nine of Spades, 22 cards remaining
+The Stack!
+     Queen of Spades
+     Nine of Clubs
+     Six of Diamonds
+     Two of Hearts
+     Seven of Clubs
+     Five of Clubs
+Stack Value: 12!
+Hand value: 9!
+Opponent cannot play any cards! Picking up
+Starting stack card: Five of Hearts
+None
+Your turn!
+The Stack!
+     Five of Hearts
+Stack Value: 5!
+Hand value: 11!
+Cannot play these cards! Pick up
+Starting stack card: Eight of Spades
+None
+Your turn!
+The Stack!
+     Eight of Spades
+Stack Value: 8!
+Hand value: 11!
+Cannot play these cards! Pick up
+Starting stack card: Jack of Clubs
+None
+Your turn!
+The Stack!
+     Jack of Clubs
+Stack Value: 11!
+Hand value: 11!
+Cannot play these cards! Pick up
+Starting stack card: Seven of Spades
+None
+Your turn!
+The Stack!
+     Seven of Spades
+Stack Value: 7!
+Hand value: 11!
+You must play lower than a 7!
+Your hand:
+     0 : Jack of Diamonds
+     1 : Jack of Clubs
+     2 : Ten of Clubs
+     3 : Eight of Spades
+     4 : Five of Hearts
+     5 : Four of Hearts
+Which card would you like to play? 0 - 5
