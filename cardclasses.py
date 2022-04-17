@@ -184,10 +184,15 @@ class Hand:
             print("You must choose from your face down cards:")
             for a in range(0,len(self.facedowns)):
                 print("    ", "Hidden card", a)
-            self.selection = int(input(f"Which card would you like to play? 0 - {int(len(self.facedowns) - 1)}"))
-            print("The hidden card is the", self.facedowns[self.selection], "!")
-            return self.facedowns.pop(self.selection)
 
+            while True:
+                try:
+                    self.selection = int(input(f"Which card would you like to play? 0 - {int(len(self.facedowns) - 1)}"))
+                    print("The hidden card is the", self.facedowns[self.selection], "!")
+                    return self.facedowns.pop(self.selection)
+                    break
+                except:
+                    print("YOU MUST INPUT AN INTEGER BETWEEN 0 AND", int(len(self.facedowns) - 1))
         else:
             if not self.handempty():
                 print("Your hand: ")
@@ -211,8 +216,14 @@ class Hand:
                     print("Your face up cards: ")
                     for a in range(0, len(self.faceups)):
                         print("    ", a, ':', self.faceups[a])
-                    self.selection = int(input(f"Which card would you like to play? 0 - {int(len(self.faceups) - 1)}"))
-                    return self.faceups.pop(self.selection)
+
+                    while True:
+                        try:
+                            self.selection = int(input(f"Which card would you like to play? 0 - {int(len(self.faceups) - 1)}"))
+                            return self.faceups.pop(self.selection)
+                            break
+                        except:
+                            print("YOU MUST INPUT AN INTEGER BETWEEN 0 AND", int(len(self.faceups) - 1))
 
     def summary(self):
         b = ""  # this variable is just used for the return, otherwise calling the __str__ prints out 'None' after everything else
