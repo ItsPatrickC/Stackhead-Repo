@@ -184,10 +184,6 @@ class Hand:
             print("You must choose from your face down cards:")
             for a in range(0,len(self.facedowns)):
                 print("    ", "Hidden card", a)
-                if self.facedowns[a].value == 10:
-                    print("ten!")
-                else:
-                    print("not ten")
             self.selection = int(input(f"Which card would you like to play? 0 - {int(len(self.facedowns) - 1)}"))
             print("The hidden card is the", self.facedowns[self.selection], "!")
             return self.facedowns.pop(self.selection)
