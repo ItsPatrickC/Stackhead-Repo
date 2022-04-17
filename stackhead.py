@@ -499,7 +499,7 @@ while True:
 
                     #deal if necessary
                     dealo(ohand, gamedeck)
-                    print("390")
+                    #print("390")
 
                     #check if opponent played an 8 and it was legal, skip if so
                     if gamestack.eight(): #REQ14 3
