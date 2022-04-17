@@ -178,7 +178,7 @@ class Hand:
 
     # function for the player to select which card to play
     def select_card(self):
-        #REQ4 is met here
+        #REQ4 is met here #test comment
         self.sorthand()
         if self.facedowncards():
             print("You must choose from your face down cards:")
