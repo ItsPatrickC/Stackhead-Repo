@@ -359,7 +359,7 @@ while True:
                         print("And it is playable!")
 
                         if gamestack.ten():  # REQ15 2
-                            deal(phand, gamedeck)
+                            #deal(phand, gamedeck)
                             print("BURN")
 
                             # empty the stack
@@ -369,6 +369,13 @@ while True:
                             input("Press Enter to continue...")
                             clear()
                             continue
+
+                        if gamestack.eight():
+                            print("8 skips!")
+                            input("Press Enter to continue...")
+                            clear()
+                            continue
+
 
                         input("Press Enter to continue...")
                         clear()
